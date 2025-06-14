@@ -43,8 +43,8 @@ $title = 'Login - Sistem Klinik';
 </head>
 <body class="bg-light">
     <div class="container">
-        <div class="row justify-content-center mt-5">
-            <div class="col-md-6">
+        <div class="row  justify-content-center mt-5">
+            <div class="col-md-4">
                 <div class="card shadow">
                     <div class="card-header bg-primary text-white text-center">
                         <h4><i class="fas fa-hospital"></i> Sistem Klinik</h4>
